@@ -1,0 +1,476 @@
+{
+    "alerts": [],
+    "current_observation": {
+        "UV": "0.0",
+        "dewpoint_c": 20,
+        "dewpoint_f": 68,
+        "dewpoint_string": "68 F (20 C)",
+        "display_location": {
+            "city": "Houston",
+            "country": "US",
+            "country_iso3166": "US",
+            "elevation": "14.9",
+            "full": "Houston, TX",
+            "latitude": "29.76000023",
+            "longitude": "-95.36000061",
+            "magic": "1",
+            "state": "TX",
+            "state_name": "Texas",
+            "wmo": "99999",
+            "zip": "77001"
+        },
+        "estimated": {},
+        "feelslike_c": "31",
+        "feelslike_f": "87",
+        "feelslike_string": "87 F (31 C)",
+        "forecast_url": "http://www.wunderground.com/US/TX/Houston.html",
+        "heat_index_c": 31,
+        "heat_index_f": 87,
+        "heat_index_string": "87 F (31 C)",
+        "history_url": "http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KTXHOUST2063",
+        "icon": "partlycloudy",
+        "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+        "image": {
+            "link": "http://www.wunderground.com",
+            "title": "Weather Underground",
+            "url": "http://icons.wxug.com/graphics/wu2/logo_130x80.png"
+        },
+        "local_epoch": "1526080923",
+        "local_time_rfc822": "Fri, 11 May 2018 18:22:03 -0500",
+        "local_tz_long": "America/Chicago",
+        "local_tz_offset": "-0500",
+        "local_tz_short": "CDT",
+        "nowcast": "",
+        "ob_url": "http://www.wunderground.com/cgi-bin/findweather/getForecast?query=29.757921,-95.362877",
+        "observation_epoch": "1526080908",
+        "observation_location": {
+            "city": "Houston / Dunn Helistop",
+            "country": "US",
+            "country_iso3166": "US",
+            "elevation": "669 ft",
+            "full": "Houston / Dunn Helistop, Texas",
+            "latitude": "29.76",
+            "longitude": "-95.36",
+            "state": "Texas"
+        },
+        "observation_time": "Last Updated on May 11, 6:21 PM CDT",
+        "observation_time_rfc822": "Fri, 11 May 2018 18:21:48 -0500",
+        "precip_1hr_in": "0.00",
+        "precip_1hr_metric": " 0",
+        "precip_1hr_string": "0.00 in ( 0 mm)",
+        "precip_today_in": "0.00",
+        "precip_today_metric": "0",
+        "precip_today_string": "0.00 in (0 mm)",
+        "pressure_in": "29.92",
+        "pressure_mb": "1013",
+        "pressure_trend": "-",
+        "relative_humidity": "57%",
+        "solarradiation": "9",
+        "station_id": "KTXHOUST2063",
+        "temp_c": 29.0,
+        "temp_f": 84.2,
+        "temperature_string": "84.2 F (29.0 C)",
+        "visibility_km": "16.1",
+        "visibility_mi": "10.0",
+        "weather": "Partly Cloudy",
+        "wind_degrees": 211,
+        "wind_dir": "SSW",
+        "wind_gust_kph": "11.9",
+        "wind_gust_mph": "7.4",
+        "wind_kph": 7.9,
+        "wind_mph": 4.9,
+        "wind_string": "From the SSW at 4.9 MPH Gusting to 7.4 MPH",
+        "windchill_c": "NA",
+        "windchill_f": "NA",
+        "windchill_string": "NA"
+    },
+    "forecast": {
+        "simpleforecast": {
+            "forecastday": [
+                {
+                    "avehumidity": 78,
+                    "avewind": {
+                        "degrees": 208,
+                        "dir": "SSW",
+                        "kph": 1,
+                        "mph": 1
+                    },
+                    "conditions": "Partly Cloudy",
+                    "date": {
+                        "ampm": "PM",
+                        "day": 11,
+                        "epoch": "1526083200",
+                        "hour": 19,
+                        "isdst": "1",
+                        "min": "00",
+                        "month": 5,
+                        "monthname": "May",
+                        "monthname_short": "May",
+                        "pretty": "7:00 PM CDT on May 11, 2018",
+                        "sec": 0,
+                        "tz_long": "America/Chicago",
+                        "tz_short": "CDT",
+                        "weekday": "Friday",
+                        "weekday_short": "Fri",
+                        "yday": 130,
+                        "year": 2018
+                    },
+                    "high": {
+                        "celsius": "31",
+                        "fahrenheit": "87"
+                    },
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "low": {
+                        "celsius": "23",
+                        "fahrenheit": "74"
+                    },
+                    "maxhumidity": 0,
+                    "maxwind": {
+                        "degrees": 0,
+                        "dir": "",
+                        "kph": 20,
+                        "mph": 12
+                    },
+                    "minhumidity": 0,
+                    "period": 1,
+                    "pop": 10,
+                    "qpf_allday": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_day": {
+                        "in": null,
+                        "mm": null
+                    },
+                    "qpf_night": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "skyicon": "",
+                    "snow_allday": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_day": {
+                        "cm": null,
+                        "in": null
+                    },
+                    "snow_night": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    }
+                },
+                {
+                    "avehumidity": 64,
+                    "avewind": {
+                        "degrees": 154,
+                        "dir": "SSE",
+                        "kph": 18,
+                        "mph": 11
+                    },
+                    "conditions": "Partly Cloudy",
+                    "date": {
+                        "ampm": "PM",
+                        "day": 12,
+                        "epoch": "1526169600",
+                        "hour": 19,
+                        "isdst": "1",
+                        "min": "00",
+                        "month": 5,
+                        "monthname": "May",
+                        "monthname_short": "May",
+                        "pretty": "7:00 PM CDT on May 12, 2018",
+                        "sec": 0,
+                        "tz_long": "America/Chicago",
+                        "tz_short": "CDT",
+                        "weekday": "Saturday",
+                        "weekday_short": "Sat",
+                        "yday": 131,
+                        "year": 2018
+                    },
+                    "high": {
+                        "celsius": "32",
+                        "fahrenheit": "90"
+                    },
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "low": {
+                        "celsius": "23",
+                        "fahrenheit": "74"
+                    },
+                    "maxhumidity": 0,
+                    "maxwind": {
+                        "degrees": 154,
+                        "dir": "SSE",
+                        "kph": 24,
+                        "mph": 15
+                    },
+                    "minhumidity": 0,
+                    "period": 2,
+                    "pop": 20,
+                    "qpf_allday": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_day": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_night": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "skyicon": "",
+                    "snow_allday": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_day": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_night": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    }
+                },
+                {
+                    "avehumidity": 65,
+                    "avewind": {
+                        "degrees": 135,
+                        "dir": "SE",
+                        "kph": 19,
+                        "mph": 12
+                    },
+                    "conditions": "Partly Cloudy",
+                    "date": {
+                        "ampm": "PM",
+                        "day": 13,
+                        "epoch": "1526256000",
+                        "hour": 19,
+                        "isdst": "1",
+                        "min": "00",
+                        "month": 5,
+                        "monthname": "May",
+                        "monthname_short": "May",
+                        "pretty": "7:00 PM CDT on May 13, 2018",
+                        "sec": 0,
+                        "tz_long": "America/Chicago",
+                        "tz_short": "CDT",
+                        "weekday": "Sunday",
+                        "weekday_short": "Sun",
+                        "yday": 132,
+                        "year": 2018
+                    },
+                    "high": {
+                        "celsius": "33",
+                        "fahrenheit": "91"
+                    },
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "low": {
+                        "celsius": "23",
+                        "fahrenheit": "73"
+                    },
+                    "maxhumidity": 0,
+                    "maxwind": {
+                        "degrees": 135,
+                        "dir": "SE",
+                        "kph": 24,
+                        "mph": 15
+                    },
+                    "minhumidity": 0,
+                    "period": 3,
+                    "pop": 20,
+                    "qpf_allday": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_day": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_night": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "skyicon": "",
+                    "snow_allday": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_day": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_night": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    }
+                },
+                {
+                    "avehumidity": 57,
+                    "avewind": {
+                        "degrees": 157,
+                        "dir": "SSE",
+                        "kph": 16,
+                        "mph": 10
+                    },
+                    "conditions": "Partly Cloudy",
+                    "date": {
+                        "ampm": "PM",
+                        "day": 14,
+                        "epoch": "1526342400",
+                        "hour": 19,
+                        "isdst": "1",
+                        "min": "00",
+                        "month": 5,
+                        "monthname": "May",
+                        "monthname_short": "May",
+                        "pretty": "7:00 PM CDT on May 14, 2018",
+                        "sec": 0,
+                        "tz_long": "America/Chicago",
+                        "tz_short": "CDT",
+                        "weekday": "Monday",
+                        "weekday_short": "Mon",
+                        "yday": 133,
+                        "year": 2018
+                    },
+                    "high": {
+                        "celsius": "34",
+                        "fahrenheit": "93"
+                    },
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "low": {
+                        "celsius": "21",
+                        "fahrenheit": "70"
+                    },
+                    "maxhumidity": 0,
+                    "maxwind": {
+                        "degrees": 157,
+                        "dir": "SSE",
+                        "kph": 24,
+                        "mph": 15
+                    },
+                    "minhumidity": 0,
+                    "period": 4,
+                    "pop": 10,
+                    "qpf_allday": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_day": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "qpf_night": {
+                        "in": 0.0,
+                        "mm": 0
+                    },
+                    "skyicon": "",
+                    "snow_allday": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_day": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    },
+                    "snow_night": {
+                        "cm": 0.0,
+                        "in": 0.0
+                    }
+                }
+            ]
+        },
+        "txt_forecast": {
+            "date": "5:29 PM CDT",
+            "forecastday": [
+                {
+                    "fcttext": "Partly cloudy. Lows overnight in the mid 70s.",
+                    "fcttext_metric": "Partly cloudy. Low 23C.",
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "period": 0,
+                    "pop": "10",
+                    "title": "Friday"
+                },
+                {
+                    "fcttext": "Some clouds. Low 74F. Winds SSE at 10 to 20 mph.",
+                    "fcttext_metric": "Some clouds. Low 23C. Winds SSE at 15 to 25 km/h.",
+                    "icon": "nt_partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                    "period": 1,
+                    "pop": "10",
+                    "title": "Friday Night"
+                },
+                {
+                    "fcttext": "Intervals of clouds and sunshine in the morning with more clouds for later in the day. A stray shower or thunderstorm is possible. High around 90F. Winds SSE at 10 to 15 mph.",
+                    "fcttext_metric": "Partly to mostly cloudy. A stray shower or thunderstorm is possible. High 32C. Winds SSE at 15 to 25 km/h.",
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "period": 2,
+                    "pop": "20",
+                    "title": "Saturday"
+                },
+                {
+                    "fcttext": "Partly cloudy. Low 74F. Winds SE at 10 to 15 mph.",
+                    "fcttext_metric": "A few clouds from time to time. Low 23C. Winds SE at 15 to 25 km/h.",
+                    "icon": "nt_partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                    "period": 3,
+                    "pop": "10",
+                    "title": "Saturday Night"
+                },
+                {
+                    "fcttext": "Sunshine and clouds mixed. A stray shower or thunderstorm is possible. High 91F. Winds SE at 10 to 15 mph.",
+                    "fcttext_metric": "Partly cloudy. A stray shower or thunderstorm is possible. High 33C. Winds SE at 15 to 25 km/h.",
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "period": 4,
+                    "pop": "20",
+                    "title": "Sunday"
+                },
+                {
+                    "fcttext": "Partly cloudy in the evening with more clouds for later at night. Low 73F. Winds SE at 10 to 15 mph.",
+                    "fcttext_metric": "Partly cloudy in the evening with more clouds for later at night. Low 23C. Winds SE at 15 to 25 km/h.",
+                    "icon": "nt_partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                    "period": 5,
+                    "pop": "10",
+                    "title": "Sunday Night"
+                },
+                {
+                    "fcttext": "Sunshine and clouds mixed. High 93F. Winds SSE at 10 to 15 mph.",
+                    "fcttext_metric": "Sunshine and clouds mixed. High 34C. Winds SSE at 10 to 15 km/h.",
+                    "icon": "partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                    "period": 6,
+                    "pop": "10",
+                    "title": "Monday"
+                },
+                {
+                    "fcttext": "Partly cloudy. Low near 70F. SSE winds shifting to WSW at 10 to 15 mph.",
+                    "fcttext_metric": "Partly cloudy. Low 21C. Winds SSW at 10 to 15 km/h.",
+                    "icon": "nt_partlycloudy",
+                    "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                    "period": 7,
+                    "pop": "10",
+                    "title": "Monday Night"
+                }
+            ]
+        }
+    },
+    "query_zone": "213",
+    "response": {
+        "features": {
+            "alerts": 1,
+            "conditions": 1,
+            "forecast": 1
+        },
+        "termsofService": "http://www.wunderground.com/weather/api/d/terms.html",
+        "version": "0.1"
+    }
+}
